@@ -2,10 +2,8 @@
 
 An interactive 3D configurator for the Porsche 911 GT3 RS — paint, wheels, brake calipers, and accents, all rendered in the browser with React Three Fiber. Built as a learning project to deepen my hands-on knowledge of Three.js and the R3F ecosystem.
 
-[Live demo →](#) <!-- TODO: drop the deployed URL here -->
+<img width="1512" height="862" alt="Screenshot 2026-05-13 at 7 57 17 PM" src="https://github.com/user-attachments/assets/5b5b3f31-aeb1-4efb-8b8b-8c2aea81b441" />
 
-<!-- TODO: replace with a hero screenshot or GIF -->
-![GT3 RS configurator hero shot](docs/hero.png)
 
 ## Features
 
@@ -48,8 +46,6 @@ An interactive 3D configurator for the Porsche 911 GT3 RS — paint, wheels, bra
 npm install
 npm run dev
 ```
-
-Then open the URL Vite prints (usually http://localhost:5173).
 
 ## Credits
 
